@@ -1,8 +1,29 @@
-body {
-	background: black;
+body{
+	background: blue;
 	color: white;
+}
+li:hover{
+  color: red;
+
 }
 
 img{
 	border-radius: 50%;
 }
+li{
+	/*color:white;*/
+	list-style:none;
+}
+	
+a{
+	color: white;
+	text-decoration: none; 
+}
+p{
+	
+	text-align:center;
+	
+}
+	
+
+
